@@ -1,4 +1,2 @@
-test
+datasets
 ====
-
-setup test
