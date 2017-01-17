@@ -1,0 +1,119 @@
+number,symbol,name,astroP,astroB,row,column,,,
+1,H,Hydrogen,red,red,1,1,diatomic,gas,nonmetal
+2,He,Helium,,lilac,1,18,atomic,gas,noble gas
+3,Li,Lithium,,purple,2,1,metallic,solid,alkali metal
+4,Be,Beryllium,,purple,2,2,metallic,solid,alkaline earth metal
+5,B,Boron,,green,2,13,covalent network,solid,metalloid
+6,C,Carbon,,red,2,14,covalent network,solid,nonmetal
+7,N,Nitrogen,,red,2,15,diatomic,gas,nonmetal
+8,O,Oxygen,,red,2,16,diatomic,gas,nonmetal
+9,F,Fluorine,,green,2,17,atomic,gas,halogen
+10,Ne,Neon,,lilac,2,18,atomic,gas,noble gas
+11,Na,Sodium,,blue,3,1,metallic,solid,alkali metal
+12,Mg,Magnesium,,blue,3,2,metallic,solid,alkaline earth metal
+13,Al,Aluminum,,purple,3,13,metallic,solid,metal
+14,Si,Silicon,,green,3,14,metallic,solid,metalloid
+15,P,Phosphorous,,red,3,15,covalent network,solid,nonmetal
+16,S,Sulfur,,red,3,16,covalent network,solid,nonmetal
+17,Cl,Chlorine,,yellow,3,17,covalent network,gas,halogen
+18,Ar,Argon,,lilac,3,18,atomic,gas,noble gas
+19,K,Potassium,,blue,4,1,metallic,solid,alkali metal
+20,Ca,Calcium,,blue,4,2,metallic,solid,alkaline earth metal
+21,Sc,Scandium,,purple,4,3,metallic,solid,transition metal
+22,Ti,Titanium,,purple,4,4,metallic,solid,transition metal
+23,V,Vanadium,,olive,4,5,metallic,solid,transition metal
+24,Cr,Chromium,,purple,4,6,metallic,solid,transition metal
+25,Mn,Manganese,,olive,4,7,metallic,solid,transition metal
+26,Fe,Iron,,olive,4,8,metallic,solid,transition metal
+27,Co,Cobalt,,olive,4,9,metallic,solid,transition metal
+28,Ni,Nickel,,olive,4,10,metallic,solid,transition metal
+29,Cu,Copper,,olive,4,11,metallic,solid,transition metal
+30,Zn,Zinc,,olive,4,12,metallic,solid,transition metal
+31, Ga , Gallium,,purple,4,13,metallic,solid,metal
+32, Ge , Germanium,,purple,4,14,metallic,solid,metalloid
+33, As , Arsenic,,green,4,15,metallic,solid,metalloid
+34, Se , Selenium,,orange,4,16,metallic,solid,nonmetal
+35, Br , Bromine,,orange,4,17,covalent network,liquid,halogen
+36, Kr , Krypton,,lilac,4,18,atomic,gas,noble gas
+37, Rb , Rubidium,,purple,5,1,metallic,solid,alkali metal
+38, Sr , Strontium,,green,5,2,metallic,solid,alkaline earth metal
+39, Y , Yttrium,,purple,5,3,metallic,solid,transition metal
+40, Zr , Zirconium,,lilac,5,4,metallic,solid,transition metal
+41, Nb , Niobium,,lilac,5,5,metallic,solid,transition metal
+42, Mo , Molybdenum,,olive,5,6,metallic,solid,transition metal
+43, Tc , Technetium,,purple,5,7,metallic,solid,transition metal
+44, Ru , Ruthenium,,purple,5,8,metallic,solid,transition metal
+45, Rh , Rhodium,,purple,5,9,metallic,solid,transition metal
+46, Pd , Palladium,,purple,5,10,metallic,solid,transition metal
+47, Ag , Silver,,purple,5,11,metallic,solid,transition metal
+48, Cd , Cadmium,,green,5,12,metallic,solid,transition metal
+49, In , Indium,,purple,5,13,metallic,solid,metal
+50, Sn , Tin,,purple,5,14,metallic,solid,metal
+51, Sb , Antimony,,purple,5,15,metallic,solid,metalloid
+52, Te , Tellurium,,purple,5,16,metallic,solid,metalloid
+53, I , Iodine,,purple,5,17,covalent network,solid,halogen
+54, Xe , Xenon,,lilac,5,18,atomic,gas,noble gas
+55, Cs , Cesium,,purple,6,1,metallic,solid,alkali metal
+56, Ba , Barium,,green,6,2,metallic,solid,alkaline earth metal
+57, La , Lanthanum,,lilac,8,4,metallic,solid,lanthanoid
+58, Ce , Cerium,,lilac,8,5,metallic,solid,lanthanoid
+59, Pr , Praseodymium,,lilac,8,6,metallic,solid,lanthanoid
+60, Nd , Neodymium,,lilac,8,7,metallic,solid,lanthanoid
+61, Pm , Promethium,,lilac,8,8,metallic,solid,lanthanoid
+62, Sm , Samarium,,lilac,8,9,metallic,solid,lanthanoid
+63, Eu , Europium,,lilac,8,10,metallic,solid,lanthanoid
+64, Gd , Gadolinium,,lilac,8,11,metallic,solid,lanthanoid
+65, Tb , Terbium,,lilac,8,12,metallic,solid,lanthanoid
+66, Dy , Dysprosium,,lilac,8,13,metallic,solid,lanthanoid
+67, Ho , Holmium,,lilac,8,14,metallic,solid,lanthanoid
+68, Er , Erbium,,lilac,8,15,metallic,solid,lanthanoid
+69, Tm , Thulium,,lilac,8,16,metallic,solid,lanthanoid
+70, Yb , Ytterbium,,lilac,8,17,metallic,solid,lanthanoid
+71, Lu , Lutetium,,lilac,8,18,metallic,solid,transition metal
+72, Hf , Hafnium,,lilac,6,4,metallic,solid,transition metal
+73, Ta , Tantalum,,lilac,6,5,metallic,solid,transition metal
+74, W , Tungsten,,olive,6,6,metallic,solid,transition metal
+75, Re , Rhenium,,lilac,6,7,metallic,solid,transition metal
+76, Os , Osmium,,lilac,6,8,metallic,solid,transition metal
+77, Ir , Iridium,,lilac,6,9,metallic,solid,transition metal
+78, Pt , Platinum,,purple,6,10,metallic,solid,transition metal
+79, Au , Gold,,purple,6,11,metallic,solid,transition metal
+80, Hg , Mercury,,purple,6,12,metallic,liquid,transition metal
+81, Tl , Thallium,,purple,6,13,metallic,solid,metal
+82, Pb , Lead,,purple,6,14,metallic,solid,metal
+83, Bi , Bismuth,,purple,6,15,metallic,solid,metal
+84, Po , Polonium,,purple,6,16,metallic,solid,metalloid
+85, At , Astatine,,purple,6,17,covalent network,solid,halogen
+86, Rn , Radon,,lilac,6,18,atomic,gas,noble gas
+87, Fr , Francium,,lilac,7,1,metallic,solid,alkali metal
+88, Ra , Radium,,lilac,7,2,metallic,solid,alkaline earth metal
+89, Ac , Actinium,,lilac,9,4,metallic,solid,actinoid
+90, Th , Thorium,,lilac,9,5,metallic,solid,actinoid
+91, Pa , Protactinium,,lilac,9,6,metallic,solid,actinoid
+92, U , Uranium,,lilac,9,7,metallic,solid,actinoid
+93, Np , Neptunium,,lilac,9,8,metallic,solid,actinoid
+94, Pu , Plutonium,,lilac,9,9,metallic,solid,actinoid
+95, Am , Americium,,lilac,9,10,metallic,solid,actinoid
+96, Cm , Curium,,lilac,9,11,metallic,solid,actinoid
+97, Bk , Berkelium,,lilac,9,12,metallic,solid,actinoid
+98, Cf , Californium,,lilac,9,13,metallic,solid,actinoid
+99, Es , Einsteinium,,lilac,9,14,,solid,actinoid
+100, Fm , Fermium,,lilac,9,15,,,actinoid
+101, Md , Mendelevium,,lilac,9,16,,,actinoid
+102, No , Nobelium,,lilac,9,17,,,actinoid
+103, Lr , Lawrencium,,lilac,9,18,,,transition metal
+104, Rf , Rutherfordium,,lilac,7,4,,,transition metal
+105, Db , Dubnium,,lilac,7,5,,,transition metal
+106, Sg , Seaborgium,,lilac,7,6,,,transition metal
+107, Bh , Bohrium,,lilac,7,7,,,transition metal
+108, Hs , Hassium,,lilac,7,8,,,transition metal
+109, Mt , Meitnerium,,lilac,7,9,,,transition metal
+110, Ds , Darmstadtium,,lilac,7,10,,,transition metal
+111, Rg , Roentgenium,,lilac,7,11,,,transition metal
+112, Cn , Copernicium,,lilac,7,12,,,transition metal
+113, Uut , Ununtrium,,lilac,7,13,,,metal
+114, Uuq , Ununquadium,,lilac,7,14,,,metal
+115, Uup , Ununpentium,,lilac,7,15,,,halogen
+116, Uuh , Ununhexium,,lilac,7,16,,,noble gas
+117, Uus , Ununseptium,,lilac,7,17,,,alkali metal
+118, Uuo , Ununoctium ,,lilac,7,18,,,alkaline earth metal
